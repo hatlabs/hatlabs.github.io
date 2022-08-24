@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site includes documentation for different products offered
   by Hat Labs Ltd.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://docs.hatlabs.fi" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hatlabs
 repository: "hatlabs/docs.hatlabs.fi"
 logo: "/images/Hat Labs logo 500.png"
