@@ -1,0 +1,21 @@
+main:
+  - title: "Main Site"
+    url: https://hatlabs.fi/
+  - title: "Shop"
+    url: https://hatlabs.fi/
+  - title: "Documentation"
+    url: https://docs.hatlabs.fi/
+  - title: "Discussion"
+    url: https://github.com/hatlabs/discussions/discussions/
+  - title: "Contact"
+    url: https://hatlabs.fi/contact/
+  
+docs:
+  - title: "SH-ESP32"
+    children:
+      - title: "Online Documentation"
+        url: https://docs.hatlabs.fi/sh-esp32/
+  - title: "SH-RPi"
+    children:
+      - title: "Online Documentation"
+        url: https://docs.hatlabs.fi/sh-rpi/
