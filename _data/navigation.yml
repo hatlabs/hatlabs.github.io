@@ -11,11 +11,15 @@ main:
     url: https://hatlabs.fi/contact/
   
 docs:
-  - title: "SH-ESP32"
+  - title: "Sailor Hat with ESP32 (SH-ESP32)"
     children:
       - title: "Online Documentation"
         url: https://docs.hatlabs.fi/sh-esp32/
-  - title: "SH-RPi"
+  - title: "Sailor Hat for Raspberry Pi (SH-RPi)"
     children:
       - title: "Online Documentation"
         url: https://docs.hatlabs.fi/sh-rpi/
+  - title: "Sailor Hat WiFi Gateway (SH-wg)"
+    children:
+      - title: "Online Documentation"
+        url: https://docs.hatlabs.fi/sh-wg/
