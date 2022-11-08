@@ -41,11 +41,12 @@ plugins:
 atom_feed:
   hide: true
 
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: G-F3KDPEBJEF
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-F3KDPEBJEF"
+    anonymize_ip         : true # true, false (default)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
