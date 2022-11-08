@@ -43,7 +43,7 @@ atom_feed:
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-190473251-2
+ga_tracking: G-F3KDPEBJEF
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 
