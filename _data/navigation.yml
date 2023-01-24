@@ -12,14 +12,11 @@ main:
   
 docs:
   - title: "Sailor Hat with ESP32 (SH-ESP32)"
-    children:
-      - title: "Online Documentation"
-        url: https://docs.hatlabs.fi/sh-esp32/
+    url: https://docs.hatlabs.fi/sh-esp32/
   - title: "Sailor Hat for Raspberry Pi (SH-RPi)"
-    children:
-      - title: "Online Documentation"
-        url: https://docs.hatlabs.fi/sh-rpi/
+    url: https://docs.hatlabs.fi/sh-rpi/
   - title: "Sailor Hat WiFi Gateway (SH-wg)"
-    children:
-      - title: "Online Documentation"
-        url: https://docs.hatlabs.fi/sh-wg/
+    url: https://docs.hatlabs.fi/sh-wg/
+  - title: "NMEA 2000"
+    url: nmea2000/
+    
