@@ -1,10 +1,13 @@
 ---
-layout: single
-sidebar:
-  nav: "docs"
+type: docs
+title: Home
+weight: 1
+cascade:
+  - type: "docs"
+    no_list: true
+    _target:
+    path: "/**"
 ---
-
-[whatever]: # Hat Labs Product Documentation
 
 Welcome to Hat Labs product documentation site. This is a place where you can find all the documentation for our products.
 

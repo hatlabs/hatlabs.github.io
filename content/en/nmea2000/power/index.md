@@ -1,8 +1,9 @@
 ---
-layout: single
-sidebar:
-  nav: "docs"
+title: NMEA 2000 Power Feed
+weight: 1000
 ---
+
+This page describes how to power the NMEA 2000 network.
 
 ## Connecting the Network Power Feed, Theory
 

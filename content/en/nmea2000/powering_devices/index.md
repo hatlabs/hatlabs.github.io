@@ -1,10 +1,7 @@
 ---
-layout: single
-sidebar:
-  nav: "docs"
+title: Powering Devices through the NMEA 2000 Network
+weight: 1000
 ---
-
-# Powering Devices through the NMEA 2000 Network
 
 It is possible to power your custom devices via the NMEA 2000 network. To stay compliant with the NMEA 2000 specification and to ensure safe and uninterrupted operation of the NMEA 2000 network, it is important to observe some restrictions in the device connections.
 

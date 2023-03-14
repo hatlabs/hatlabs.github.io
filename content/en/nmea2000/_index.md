@@ -1,10 +1,8 @@
 ---
-layout: single
-sidebar:
-  nav: "docs"
+title: NMEA 2000
+weight: 1000
+no_list: false
 ---
-
-[whatever]: # NMEA 2000 Network Basics
 
 ## Introduction
 
