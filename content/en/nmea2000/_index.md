@@ -12,7 +12,9 @@ All devices on the network can both transmit and receive messages.
 
 An illustration of a typical NMEA 2000 network with some example devices is shown below.
 
-<img src="assets/nmea2000-diagram.svg" width="80%" alt="NMEA 2000 Network"/>
+{{< imgrel "nmea2000-diagram.svg" "70%" >}}
+Example NMEA 2000 Network.
+{{< /imgrel >}}
 
 Figure components are:
 
