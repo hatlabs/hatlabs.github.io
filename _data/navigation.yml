@@ -19,4 +19,11 @@ docs:
     url: https://docs.hatlabs.fi/sh-wg/
   - title: "NMEA 2000"
     url: nmea2000/
+    children:
+      - title: "NMEA 2000 Introduction"
+        url: nmea2000/
+      - title: "NMEA 2000 Power Connection"
+        url: nmea2000/power/
+      - title: "Powering Devices through NMEA 2000"
+        url: nmea2000/powering_devices
     
