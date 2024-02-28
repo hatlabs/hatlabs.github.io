@@ -20,7 +20,7 @@ Please follow the links in the left sidebar to find the documentation for our pr
 Discussion forums are a great place to ask questions and get help with our products.
 Our [main discussion forum](https://github.com/hatlabs/discussions/discussions/) is hosted at GitHub.
 
-If you prefer a more interactive touch, the [Signal K Slack site](http://slack-invite.signalk.org/) is a great place to get help for many of our products.
+If you prefer a more interactive touch, the [Signal K Discord server](https://discord.gg/snbxwmERMh) is a great place to get help for many of our products.
 
 If you have specific questions related to our products or your purchases, please contact us at [info@hatlabs.fi](mailto:info@hatlabs.fi). We’d love to help you.
 Please note, however, that we are not able to provide individual assistance in matters related to software or hardware development.
