@@ -23,7 +23,7 @@ Figure components are:
 <dd>N2K power cable. Every NMEA 2000 network segment must be connected to boat's 12 V power system. Ideally, the power connection should be roughly in the middle of the backbone.</dd>
 <dt>2</dt>
 <dd>Network male and female terminators.
-   The network backbone must be terminated with 120 ohm resistors for proper network operation. The are mandatory and essential!</dd>
+   The network backbone must be terminated with exactly two 120 ohm resistors for proper network operation. The are mandatory and essential!</dd>
 <dt>3</dt>
 <dd>Drop cables are connected to the backbone using T-connectors.
    The T-connectiors can have one or multiple drop cable connections.</dd>
