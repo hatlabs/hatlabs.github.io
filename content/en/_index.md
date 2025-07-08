@@ -27,5 +27,5 @@ Please note, however, that we are not able to provide individual assistance in m
 
 ## About Hat Labs
 
-[Hat Labs](https://hatlabs.fi) designs and manufactures open marine electronics products with a special focus on CAN bus, NMEA 2000, WiFi and Signal K connectivity and interoperability.
+[Hat Labs](https://hatlabs.fi) designs and manufactures open marine electronics products with a special focus on Raspberry Pi devices, CAN bus, NMEA 2000, WiFi and Signal K connectivity and interoperability.
 We produce both off-the-shelf developer and end-user devices and completely customized customer-specific solutions.
